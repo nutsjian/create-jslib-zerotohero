@@ -1,6 +1,6 @@
 {
   "name": "create-jslib-zerotohero",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "typings": "lib/index.d.js",
