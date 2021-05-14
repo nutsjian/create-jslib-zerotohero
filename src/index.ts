@@ -6,4 +6,8 @@ function multipy(a, b) {
   return a * b;
 }
 
-export { sum, multipy };
+function subtract(a, b) {
+  return a - b;
+}
+
+export { sum, multipy, subtract };
